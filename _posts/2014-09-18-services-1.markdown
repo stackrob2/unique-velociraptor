@@ -1,0 +1,8 @@
+---
+layout: default
+img: AOS.jpg
+category: Services
+title: Vida e Grande Obra de Austin Osman Spare
+description: |
+---
+  Conheça a vida e obra deste que foi considerado, por Alan Moore, o maior estudio de nú que o Reino Unido já teve. Sua trajetório nas guerras que luto e nos estilo artístico chamado surrealismo que ajudou a nomear.

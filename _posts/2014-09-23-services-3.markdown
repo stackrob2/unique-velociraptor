@@ -1,0 +1,8 @@
+---
+layout: default
+img: 5.png
+category: Services
+title: Postura de Morte e do Alfabeto de Desejo
+description: |
+---
+A Postura de Morte é o mistério transmitido de modo pessoal e a chave da potência prática do siatema mágico de Zos vel Thanatos. Aprenda a fazer seu Alfabeto de Desejo tendo acesso direto aos poderes do inconsciente.

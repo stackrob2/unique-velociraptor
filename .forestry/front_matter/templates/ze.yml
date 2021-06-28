@@ -1,0 +1,9 @@
+---
+label: ze
+hide_body: false
+fields:
+- type: text
+  name: teste
+  label: teste
+pages:
+- ze.md
